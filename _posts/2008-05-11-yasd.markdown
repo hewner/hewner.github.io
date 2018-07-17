@@ -1,0 +1,19 @@
+---
+author: phewner
+comments: true
+date: 2008-05-11 12:52:41+00:00
+layout: post
+link: http://hewner.com/2008/05/11/yasd/
+slug: yasd
+title: YASD
+wordpress_id: 95
+---
+
+<blockquote>
+ 1     362892  hewn-Val-Hum-Fem-Law died in The Quest on level 19
+ [max 26]. Killed by a death ray. 119 [119]
+</blockquote>
+
+
+
+Nethack is the ultimate is computational masochism.  One second your Valkyrie is rocking through the Dungeons of Doom like a hurricane of Spolier-pumped pain, taking all comers with your painstakingly tricked out Mojinir.  Then 1 random fire giant with a wand of death ends it all in an instant.

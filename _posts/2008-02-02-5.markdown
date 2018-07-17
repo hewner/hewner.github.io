@@ -1,0 +1,30 @@
+---
+author: phewner
+comments: true
+date: 2008-02-02 18:13:18+00:00
+layout: post
+link: http://hewner.com/2008/02/02/5/
+slug: '5'
+title: 5%
+wordpress_id: 88
+---
+
+This started as post in response to the wise and talented Josh , but eventually got so unwieldy I split it off into this post.  [Josh's post](http://blog.reverberate.org/2008/02/02/brilliant-programmers/) - and [the post he was responding](http://www.artima.com/weblogs/viewpost.jsp?thread=221622) to - are worth reading but all the context you actually need to know is that somebody made the claim that the top 5% of programmers are more 20x more productive than the other 95%.
+
+1.  So as to this 5% business, I've actually heard a ton of various numbers along these lines.  Now that I'm a honest-to-goodness academic who is supposed to know about this kind of stuff, I feel pretty confident in saying that these numbers are made up.  Though if anybody has actual references to studies or something, I would really seriously appreciate if you'd post them up here because I could really use them.
+
+But from an academic perspective, just having some semi-viable metric of evaluating 1 programmer against another basically doesn't exist.  There is someone in my lab who's currently working on a test to compare CS1 students against one another, and if that works out it'll be a Ph.D. for her.  And if you think about how you would try and compare a CS1 student trained in Java to one trained in Scheme, it ain't easy.
+
+2.  So whether it's 10x or 100x, I agree that the numbers we hear kicking around are talking about a phenomenon that people really do see out there in the real world.  And I wouldn't say that it's likely unique to programming - programming is just an obvious example because it has something to do with quantity as well as quality.  That is, maybe the best writer can crank out a screenplay that's 100x better than a average writer but it'd be pretty hard to know that.  With a programmer you might be able to really write something in 3 days that would take someone else a year.
+
+So I'm not disputing the 5% thing, except to say that 5% is just a catchy way somebody came up with to describe "some programmers are waaaaay better than others".
+
+3.  The real million dollar question in my mind, Josh, is what are these super-programmers doing that others are not?  Even if there's just something irreproducible in their genes - shouldn't this be the sort of thing we could detect somehow?  Or if there are strategies involved, could we use them to make the 90 percentile 5x better than everybody else?
+
+Because I think that all of us serious programmers, on our darker nights, think about those 5%ers and wonder if we are really making the cut.  And we shake it off in the morning and say well "I got thus-and-such on my SATs, and I went to this school, and didn't I get a 5 on my last performance review?"  "Surely," we think, "surely that must mean I'm on the list."  It's a lot like Calvinism, when you think about it.
+
+But I think those doubts afflict students most of all, and especially those who are not white male with a lifetime of hacking experience and tons of free time.  I think it's likely (though unproven) that once you decide you can't make the 5%, you're likely not going to put in the time and effort to get there even if it was possible.
+
+Which of course brings me around to my research - say you had a group of the 50 cs students who enter an average program around the country.  And say your goal was to get absolutely as many of them as possible into that 5% and screw everything else.  What would you say to them?  What would you do with them?
+
+Comment, you slackers!

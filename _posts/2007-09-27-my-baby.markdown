@@ -1,0 +1,18 @@
+---
+author: phewner
+comments: false
+date: 2007-09-27 23:40:27+00:00
+layout: post
+link: http://hewner.com/2007/09/27/my-baby/
+slug: my-baby
+title: My Baby
+wordpress_id: 70
+categories:
+- Worklogs
+---
+
+![A nest of pain from which no sanity can emerge](http://www.technofetish.net/mike/btwiddler/board.GIF)
+
+If it has ever crossed your mind to wonder why I haven't been posting lately, the image above is your answer.  You're looking at the BC419143B, a microprocessor designed to output Bluetooth.  In theory I will be building a chording keyboard that uses this device, but before that I had to design a circutboard for that purpose.  You have no idea how long I have spent on this 1x3 inches -  I do not want to think about it much myself.
+
+[Look at a slightly more complete version of the board here](http://www.technofetish.net/mike/btwiddler/bluetwiddler5.pdf).  And expect more information, including some details about the firmware and case, in the coming days.

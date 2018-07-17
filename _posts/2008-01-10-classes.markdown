@@ -1,0 +1,22 @@
+---
+author: phewner
+comments: true
+date: 2008-01-10 22:46:44+00:00
+layout: post
+link: http://hewner.com/2008/01/10/classes/
+slug: classes
+title: Classes
+wordpress_id: 81
+categories:
+- Mike Status Updates
+---
+
+As a Ph.D. student I am not really supposed to be taking classes.  Classes could only serve to distract me from the important business of being a grad student.  A grad student's primary "job" is to write papers that nobody reads.  Ideally, in those papers are complicated math that looks really hard.  After enough papers have been written, the grad student is considered to have made a "contribution to the field" by which is meant an obscure term that nobody understands.  "That's Dave" they'll say "he's the expert in Compugraphapharmolgy Optimization.  But I've never really understood it."  Compugraphapharmolgy is like Dave's secret "ninja name".
+
+I am not supposed to be taking classes - I am supposed to be working on me ninja name.  But if you don't take any classes, the university beings to send you threatening emails to the effect of "Sign up for something or we make your fill out forms till your wrists explode".  Avoiding forms is one of the primary quests of my life, so I'm taking a few classes:
+
+**Artificial Intelligence.**  Just so all you naysayers didn't think I'm not taking any real CS.  There are MPs.  There are finals.  There are lectures so boring that your brain attempts to escape through your years - 3 days a week at 9am.  Sigh.  The good news is that the professor does make some effort to make things engaging - with varying amounts of success.  And we get to program Lisp.  Woo!
+
+**Foundations of Educational Technology.** A discussion class where we read papers about using technology to encourage learning.  Highly important for my Learning Sciences qual.  And the great thing about discussion classes is, you basically don't have to do any work beyond enduring the poorly informed commentary of your peers.
+
+**Interactive Narrative.**  Studies the strange and mysterious field where computer programs are designed to writes stories in various ways.  Odd and maybe completely useless.  But fun.  And I like fun.  Hopefully I'll get a chance to do an interesting project in this class - and maybe even get published in one of this field's obscure publications.  Isn't academe crazy?

@@ -1,0 +1,8 @@
+theme: minima
+title: Mike Hewner's Homepage
+layouts_dir: .internal/layouts
+include: ['.internal']
+
+collections:
+  posts:
+    output: true
