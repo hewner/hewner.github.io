@@ -3,12 +3,10 @@ author: phewner
 comments: true
 date: 2005-11-05 06:34:28+00:00
 layout: post
-link: http://hewner.com/2005/11/04/latex-resume/
+permalink: /2005/11/04/latex-resume/
 slug: latex-resume
 title: LaTeX Resume
 wordpress_id: 3
-categories:
-- Programming Stuff
 ---
 
 Donald Knuth is the ultimate Zen badness of ComputerSciencedom.  Eric Raymond pretends but we all know: if it ever comes to a fight he'll be on the unhappy end of Heart Vaporizing Literate Programming Strike just like the rest of us loosers.  Not that it ever will come to a fight, of course, because Knuth has long ago devoted himself to the life of a monk.  His days are spent in quiet contemplation of beautiful algorythms, and his nights - the subtle and profound calligraphy of TeX.
