@@ -4,12 +4,12 @@ layout: post
 permalink: /
 ---
 
-<img align="right" src="Me-Purple.png"/>
+<img align="right" src="files/Me-Purple.png"/>
 
 Hey, I'm Mike Hewner. I am a assistant professor at
 [Rose-Hulman](http://www.rose-hulman.edu/).
 
-<a href='http://hewner.com/files/cv2.pdf'>My CV (updated December 2017) is available here.</a>  I also maintain a <a href='http://hewner.com/files/cv2-nonacademic.pdf'>non-academic resume</a>. 
+[My CV (updated December 2017) is available here](cv/cv2.pdf).  I also maintain a [non-academic resume](cv/cv2-nonacademic.pdf). 
 
 # Research
 
@@ -32,8 +32,6 @@ Email: hewner 'at' rose-hulman 'dot' edu
 Gtalk chat: hewner (a great way to reach me if you need some quick assignment help)
 
 Office Phone: 812 877 8517
-
-Cell Phone: 716 517 7671 (if you're a student, it might be better to send me a text message than calling direct...I will get back to you as soon as I'm available)
 
 My office is F 204 (near Darryl Mouck's office if that helps).  Come by any time the door is open. 
 
