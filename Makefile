@@ -13,8 +13,8 @@ endef
 all: private.zip.gpg .git/info/exclude .profMakeBackup
 .PHONY : all hideprivate decryptprivate demo
 
-demo :
-	bundler exec jekyll serve --watch
+demo:
+	bundle exec jekyll serve --watch                                
 
 # rules for decrypting/encrypting the Private Directory
 
