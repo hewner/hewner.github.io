@@ -8,7 +8,7 @@ slug: looking-for-a-professional-programming-job-this-summer
 title: Looking for a professional programming job this summer
 wordpress_id: 816
 categories:
-- Programming Stuff
+- Programming
 ---
 
 Being an academic, I get summers off from teaching. When possible, I like to take the opportunity to do three months of software development work for some company. I keeps my programming practices up to date and provides good stories to tell in class...but even more importantly, I enjoy it.

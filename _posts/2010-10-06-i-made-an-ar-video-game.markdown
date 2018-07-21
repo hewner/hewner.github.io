@@ -8,7 +8,7 @@ slug: i-made-an-ar-video-game
 title: I made an AR Video Game! (and it got on CNN)
 wordpress_id: 266
 categories:
-- Programming Stuff
+- Programming
 ---
 
 So this is the game I've been working on the past few weeks...it's called Nerdferno.  Basically you have these little office worker nerds that you torture in order to force them to work and make money for you...which lets you buy more cool torture devices...it's a vicious cycle.  It's not really a fully fleshed out game at this point, but it does feel really good to hit the nerds with that spiky ball.

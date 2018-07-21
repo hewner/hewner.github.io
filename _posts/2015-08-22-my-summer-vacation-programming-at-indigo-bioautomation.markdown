@@ -8,7 +8,7 @@ slug: my-summer-vacation-programming-at-indigo-bioautomation
 title: 'My Summer Vacation: Programming at Indigo Bioautomation'
 wordpress_id: 770
 categories:
-- Programming Stuff
+- Programming
 ---
 
 This summer I had a fun opportunity to program in a space I've never really explored before: medical data analysis.  The company was [Indigo Bioautomation](http://www.indigobio.com/).  They build cloud-based software for analyzing mass spectrometer data.  Here's a pretty good introduction if you're curious:

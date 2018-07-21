@@ -8,7 +8,7 @@ slug: evdev-for-ruby-with-morse-code
 title: evdev for ruby (with morse code!)
 wordpress_id: 40
 categories:
-- Programming Stuff
+- Programming
 ---
 
 I built a ruby wrapper for the linux evdev interface.  evdev is an interface that lets you work with various linux input devices - touchscreens and mouses and joysticks and keyboards.

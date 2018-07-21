@@ -8,7 +8,7 @@ slug: vi-inserting-keyboard
 title: VI inserting keyboard
 wordpress_id: 51
 categories:
-- Programming Stuff
+- Programming
 - Worklogs
 ---
 

@@ -8,7 +8,7 @@ slug: my-summer-vacation-programming-at-groupon
 title: 'My Summer Vacation: Programming at Groupon'
 wordpress_id: 719
 categories:
-- Programming Stuff
+- Programming
 ---
 
 After focusing on teaching and research for the last few years, I wanted to get back to the swing of things and write some real code.  Lucky for me, my good friend Ben twisted a few arms and got me a summer job with his team at Groupon (lest you doubt Groupon's hiring practices...yes there were some technical interviews in there too).  I worked on the [Breadcrumb Pro team](https://breadcrumb.groupon.com/pro#search).  Our app looked like this:

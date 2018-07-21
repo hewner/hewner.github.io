@@ -8,7 +8,7 @@ slug: looking-for-cs-contract-work-for-me-and-a-team-of-rose-hulman-cs-majors
 title: Looking for CS Contract Work (for me and a team of Rose-Hulman CS majors)
 wordpress_id: 776
 categories:
-- Programming Stuff
+- Programming
 - Teaching
 ---
 

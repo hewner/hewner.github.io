@@ -8,7 +8,7 @@ slug: making-simple-fractals-in-r
 title: Making Simple Fractals in R
 wordpress_id: 636
 categories:
-- Programming Stuff
+- Programming
 - Teaching
 ---
 

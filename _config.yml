@@ -1,6 +1,8 @@
 theme: minima
 title: Mike Hewner's Homepage
+header_pages: ['about_me.md', 'teaching.md', 'research.md', 'programming.md']
 layouts_dir: .internal/layouts
+includes_dir: .internal/includes
 include: ['.internal']
 
 collections:

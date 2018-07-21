@@ -8,7 +8,7 @@ slug: search-based-ai-for-pandemic
 title: Search-Based AI for Pandemic
 wordpress_id: 490
 categories:
-- Programming Stuff
+- Programming
 ---
 
 The final project for my game AI course was to build an AI for a modern board game.  My team selected Pandemic, a cooperative board game in which players need to both travel around preventing diseases as well as hoarding cards to "cure" diseases.

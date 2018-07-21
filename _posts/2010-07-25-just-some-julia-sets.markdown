@@ -8,7 +8,7 @@ slug: just-some-julia-sets
 title: Just Some Julia Sets
 wordpress_id: 237
 categories:
-- Programming Stuff
+- Programming
 ---
 
 So one of the neat side things I learned at GHP was how the Mandelbrot Set works.  Somehow I had the impression that the Mandelbrot Set was really complicated so I had never looked up the details.  But it is really crazy-simple, assuming you know what a complex number is.  Anyways, once I learned this, I just had to cook up my own mini-fractal generator and explore.  I didn't actually draw the Mandelbrot (yeah, now that I understand the Mandelbrot just doesn't excite me anymore): I'm drawing some julia sets which are a very close relative.

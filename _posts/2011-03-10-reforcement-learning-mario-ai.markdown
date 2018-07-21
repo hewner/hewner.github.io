@@ -8,7 +8,7 @@ slug: reforcement-learning-mario-ai
 title: Reforcement Learning Mario AI
 wordpress_id: 456
 categories:
-- Programming Stuff
+- Programming
 ---
 
 As part of the Game AI class I'm, I built an AI for playing levels of Super Mario Brothers (using [this framework here](http://www.marioai.org/)...I didn't make the mario game itself).  This Mario AI trains on one specific Mario level somewhere between 1000 and 100000 times.  It may seem pretty cool, but imagine how cool you would be if you played the same level of Mario every day for 275 years.  I bet you'd learn a few tricks too.

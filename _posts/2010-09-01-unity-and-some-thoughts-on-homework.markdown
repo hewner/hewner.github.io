@@ -8,7 +8,7 @@ slug: unity-and-some-thoughts-on-homework
 title: Unity and Some Thoughts On Homework
 wordpress_id: 257
 categories:
-- Programming Stuff
+- Programming
 - Teaching
 ---
 

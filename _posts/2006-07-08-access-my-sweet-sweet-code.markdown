@@ -8,7 +8,7 @@ slug: access-my-sweet-sweet-code
 title: Access my sweet sweet code
 wordpress_id: 32
 categories:
-- Programming Stuff
+- Programming
 ---
 
 ![come to the wired as soon as you can](http://www.technofetish.net/buffaloblog/files/condition_lesson_pre.jpg)

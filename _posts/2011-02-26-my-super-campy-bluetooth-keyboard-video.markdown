@@ -8,7 +8,7 @@ slug: my-super-campy-bluetooth-keyboard-video
 title: My Super Campy Bluetooth Keyboard Video
 wordpress_id: 438
 categories:
-- Programming Stuff
+- Programming
 ---
 
 So I was digging through my archives as I revamp the venerable buffaloblog to serve as my main homepage.  I found a video we had to produce as part of the 2007 Ubiquitous Computing course where my group designed a bluetooth keyboard device.  And it is _so bad_.

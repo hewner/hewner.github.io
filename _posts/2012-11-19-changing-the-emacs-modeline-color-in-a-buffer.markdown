@@ -8,7 +8,7 @@ slug: changing-the-emacs-modeline-color-in-a-buffer
 title: Changing the Emacs Modeline Color in a Buffer
 wordpress_id: 689
 categories:
-- Programming Stuff
+- Programming
 - Worklogs
 ---
 

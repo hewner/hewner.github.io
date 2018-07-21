@@ -8,7 +8,7 @@ slug: my-summer-2016-ventures-project-was-featured-in-rose-hulmans-cpse-newslett
 title: My Summer 2016 ventures project was featured in Rose-Hulman's CPSE newsletter
 wordpress_id: 823
 categories:
-- Programming Stuff
+- Programming
 - Research
 - Teaching
 ---

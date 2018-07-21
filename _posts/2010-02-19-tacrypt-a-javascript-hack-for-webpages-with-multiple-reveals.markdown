@@ -8,7 +8,7 @@ slug: tacrypt-a-javascript-hack-for-webpages-with-multiple-reveals
 title: TACrypt - A JavaScript Hack for Webpages With Multiple Reveals
 wordpress_id: 153
 categories:
-- Programming Stuff
+- Programming
 - Teaching
 ---
 

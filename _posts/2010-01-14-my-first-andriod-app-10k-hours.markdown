@@ -8,7 +8,7 @@ slug: my-first-andriod-app-10k-hours
 title: 'My First Android App: 10K Hours'
 wordpress_id: 110
 categories:
-- Programming Stuff
+- Programming
 ---
 
 Ok, for people who haven't read Malcolm Gladwell's book [Outliers](http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell), it includes the idea that to be really good at something you must practice.  It's not exactly revolutionary, but what is interesting is that he puts a number to the amount of practice you ought to do: about 10000 hours to be world-class.  Gladwell goes through a lot of examples - Beethoven, The Beatles, Bill Gates.  Some people might argue with some of Gladwell's specifics, but what really is clear is that these people did practice quite a lot before they did any of their really cool stuff.

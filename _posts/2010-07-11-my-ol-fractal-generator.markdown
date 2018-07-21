@@ -8,7 +8,7 @@ slug: my-ol-fractal-generator
 title: My Ol' Fractal Generator
 wordpress_id: 225
 categories:
-- Programming Stuff
+- Programming
 ---
 
 So one of the students was curious about the fractal generator I built last winter, so I figured I ought to finally package it up in a way that was somewhat easy to download.

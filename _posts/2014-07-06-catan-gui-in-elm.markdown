@@ -8,7 +8,7 @@ slug: catan-gui-in-elm
 title: Catan GUI in Elm
 wordpress_id: 746
 categories:
-- Programming Stuff
+- Programming
 ---
 
 I'm in India, but there's some downtime and I've been using it to play a with a toy project - a Settlers of Catan game built in the pure FRP web language Elm.  Well, perhaps "game" is to strong of a word for what I've done thus far - lets say Settlers of Catan GUI.

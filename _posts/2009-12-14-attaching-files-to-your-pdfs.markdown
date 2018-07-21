@@ -8,7 +8,7 @@ slug: attaching-files-to-your-pdfs
 title: Attaching files to your PDFs
 wordpress_id: 108
 categories:
-- Programming Stuff
+- Programming
 ---
 
 One of the things that I don't like about LaTeX is that the thing you distribute - usually a PDF - is not the same thing you edit.  This means that if you ever lose the source files, you can't rely on just redownloading the version you posted on your website or emailed to your friend or whatever.  I keep my LaTeX files in a backed-up source control system, but still I worry.

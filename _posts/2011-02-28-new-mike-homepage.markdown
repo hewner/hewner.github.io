@@ -9,7 +9,7 @@ title: New Mike Homepage
 wordpress_id: 447
 categories:
 - Mike Status Updates
-- Programming Stuff
+- Programming
 ---
 
 So I have a new homepage at [hewner.com](hewner.com).  I've been thinking for a while that I ought to have a page with my various research, teaching, and programming stuff that I would be comfortable pointing folks to, so I've upgraded the old buffaloblog into your one-stop Mike info-porium.
