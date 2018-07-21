@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-03-10 17:18:04+00:00
 layout: post
-link: http://hewner.com/2010/03/10/using-awesome-with-gnome-in-ubuntu-9-10/
+permalink: /2010/03/10/using-awesome-with-gnome-in-ubuntu-9-10/
 slug: using-awesome-with-gnome-in-ubuntu-9-10
 title: Using awesome with gnome in Ubuntu 9.10
 wordpress_id: 190

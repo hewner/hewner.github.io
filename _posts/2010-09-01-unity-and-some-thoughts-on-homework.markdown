@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-09-01 22:49:42+00:00
 layout: post
-link: http://hewner.com/2010/09/01/unity-and-some-thoughts-on-homework/
+permalink: /2010/09/01/unity-and-some-thoughts-on-homework/
 slug: unity-and-some-thoughts-on-homework
 title: Unity and Some Thoughts On Homework
 wordpress_id: 257

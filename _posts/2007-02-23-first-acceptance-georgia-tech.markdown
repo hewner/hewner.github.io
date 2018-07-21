@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-02-23 19:08:55+00:00
 layout: post
-link: http://hewner.com/2007/02/23/first-acceptance-georgia-tech/
+permalink: /2007/02/23/first-acceptance-georgia-tech/
 slug: first-acceptance-georgia-tech
 title: 'First Acceptance: Georgia Tech'
 wordpress_id: 61

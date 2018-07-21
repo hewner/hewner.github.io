@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2013-05-20 15:09:35+00:00
 layout: post
-link: http://hewner.com/2013/05/20/my-students-are-awesome-csse-376-board-games/
+permalink: /2013/05/20/my-students-are-awesome-csse-376-board-games/
 slug: my-students-are-awesome-csse-376-board-games
 title: 'My students are awesome: CSSE 376 Board Games '
 wordpress_id: 706

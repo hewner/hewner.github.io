@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-01-19 00:03:10+00:00
 layout: post
-link: http://hewner.com/2008/01/18/spring-break/
+permalink: /2008/01/18/spring-break/
 slug: spring-break
 title: Spring break!
 wordpress_id: 84

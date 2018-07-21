@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-09-05 20:55:47+00:00
 layout: post
-link: http://hewner.com/2006/09/05/functional-rewritable-hid-report/
+permalink: /2006/09/05/functional-rewritable-hid-report/
 slug: functional-rewritable-hid-report
 title: Functional rewritable HID report
 wordpress_id: 43

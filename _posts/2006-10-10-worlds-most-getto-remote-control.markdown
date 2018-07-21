@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-10-10 01:48:53+00:00
 layout: post
-link: http://hewner.com/2006/10/09/worlds-most-getto-remote-control/
+permalink: /2006/10/09/worlds-most-getto-remote-control/
 slug: worlds-most-getto-remote-control
 title: World's Most Getto Remote Control
 wordpress_id: 52

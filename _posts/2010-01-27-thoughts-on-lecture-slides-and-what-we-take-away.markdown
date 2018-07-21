@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-01-27 04:14:11+00:00
 layout: post
-link: http://hewner.com/2010/01/26/thoughts-on-lecture-slides-and-what-we-take-away/
+permalink: /2010/01/26/thoughts-on-lecture-slides-and-what-we-take-away/
 slug: thoughts-on-lecture-slides-and-what-we-take-away
 title: Thoughts on Lecture, Slides, and What We Take Away
 wordpress_id: 129

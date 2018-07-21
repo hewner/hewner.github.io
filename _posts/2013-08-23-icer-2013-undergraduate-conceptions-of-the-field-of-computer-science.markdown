@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2013-08-23 04:21:22+00:00
 layout: post
-link: http://hewner.com/2013/08/22/icer-2013-undergraduate-conceptions-of-the-field-of-computer-science/
+permalink: /2013/08/22/icer-2013-undergraduate-conceptions-of-the-field-of-computer-science/
 slug: icer-2013-undergraduate-conceptions-of-the-field-of-computer-science
 title: 'ICER 2013: Undergraduate Conceptions of the Field of Computer Science'
 wordpress_id: 714

@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2012-10-10 18:31:17+00:00
 layout: post
-link: http://hewner.com/2012/10/10/my-defense/
+permalink: /2012/10/10/my-defense/
 slug: my-defense
 title: My Defense
 wordpress_id: 672

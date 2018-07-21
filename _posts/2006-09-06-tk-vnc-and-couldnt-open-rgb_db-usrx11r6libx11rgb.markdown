@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-09-06 21:58:09+00:00
 layout: post
-link: http://hewner.com/2006/09/06/tk-vnc-and-couldnt-open-rgb_db-usrx11r6libx11rgb/
+permalink: /2006/09/06/tk-vnc-and-couldnt-open-rgb_db-usrx11r6libx11rgb/
 slug: tk-vnc-and-couldnt-open-rgb_db-usrx11r6libx11rgb
 title: tk, vnc, and Couldn't open RGB_DB '/usr/X11R6/lib/X11/rgb'
 wordpress_id: 44

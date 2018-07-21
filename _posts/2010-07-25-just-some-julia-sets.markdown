@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-07-25 18:37:14+00:00
 layout: post
-link: http://hewner.com/2010/07/25/just-some-julia-sets/
+permalink: /2010/07/25/just-some-julia-sets/
 slug: just-some-julia-sets
 title: Just Some Julia Sets
 wordpress_id: 237

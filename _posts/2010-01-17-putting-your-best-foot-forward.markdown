@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-01-17 19:12:09+00:00
 layout: post
-link: http://hewner.com/2010/01/17/putting-your-best-foot-forward/
+permalink: /2010/01/17/putting-your-best-foot-forward/
 slug: putting-your-best-foot-forward
 title: Putting your best foot forward
 wordpress_id: 113

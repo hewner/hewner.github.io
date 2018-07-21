@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-10-06 17:00:44+00:00
 layout: post
-link: http://hewner.com/2010/10/06/i-made-an-ar-video-game/
+permalink: /2010/10/06/i-made-an-ar-video-game/
 slug: i-made-an-ar-video-game
 title: I made an AR Video Game! (and it got on CNN)
 wordpress_id: 266

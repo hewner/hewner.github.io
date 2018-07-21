@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-07-09 20:04:12+00:00
 layout: post
-link: http://hewner.com/2008/07/09/my-first-paper/
+permalink: /2008/07/09/my-first-paper/
 slug: my-first-paper
 title: My first paper
 wordpress_id: 97

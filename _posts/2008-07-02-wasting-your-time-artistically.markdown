@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-07-02 23:04:09+00:00
 layout: post
-link: http://hewner.com/2008/07/02/wasting-your-time-artistically/
+permalink: /2008/07/02/wasting-your-time-artistically/
 slug: wasting-your-time-artistically
 title: Wasting your time with art!
 wordpress_id: 96

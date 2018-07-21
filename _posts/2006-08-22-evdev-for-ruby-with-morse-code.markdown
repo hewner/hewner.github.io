@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-08-22 01:51:13+00:00
 layout: post
-link: http://hewner.com/2006/08/21/evdev-for-ruby-with-morse-code/
+permalink: /2006/08/21/evdev-for-ruby-with-morse-code/
 slug: evdev-for-ruby-with-morse-code
 title: evdev for ruby (with morse code!)
 wordpress_id: 40

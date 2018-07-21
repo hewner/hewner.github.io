@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2015-08-22 19:05:15+00:00
 layout: post
-link: http://hewner.com/2015/08/22/my-summer-vacation-programming-at-indigo-bioautomation/
+permalink: /2015/08/22/my-summer-vacation-programming-at-indigo-bioautomation/
 slug: my-summer-vacation-programming-at-indigo-bioautomation
 title: 'My Summer Vacation: Programming at Indigo Bioautomation'
 wordpress_id: 770

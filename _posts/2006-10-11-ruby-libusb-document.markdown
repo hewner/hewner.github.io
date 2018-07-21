@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-10-11 09:33:33+00:00
 layout: post
-link: http://hewner.com/2006/10/11/ruby-libusb-document/
+permalink: /2006/10/11/ruby-libusb-document/
 slug: ruby-libusb-document
 title: ruby libusb documentation
 wordpress_id: 53

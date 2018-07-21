@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-07-24 03:33:58+00:00
 layout: post
-link: http://hewner.com/2006/07/23/avrplay-got-makefile-working-for-microcontroller-programming/
+permalink: /2006/07/23/avrplay-got-makefile-working-for-microcontroller-programming/
 slug: avrplay-got-makefile-working-for-microcontroller-programming
 title: avrplay - got makefile working for microcontroller programming
 wordpress_id: 35

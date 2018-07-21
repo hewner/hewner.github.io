@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2009-03-31 15:16:48+00:00
 layout: post
-link: http://hewner.com/2009/03/31/buffalo-passes-qualifying-exams/
+permalink: /2009/03/31/buffalo-passes-qualifying-exams/
 slug: buffalo-passes-qualifying-exams
 title: Buffalo Passes Qualifying Exams!
 wordpress_id: 100

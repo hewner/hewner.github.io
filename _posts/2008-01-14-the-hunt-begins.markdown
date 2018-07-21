@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-01-14 02:49:56+00:00
 layout: post
-link: http://hewner.com/2008/01/13/the-hunt-begins/
+permalink: /2008/01/13/the-hunt-begins/
 slug: the-hunt-begins
 title: The hunt begins
 wordpress_id: 82

@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2011-07-26 03:27:54+00:00
 layout: post
-link: http://hewner.com/2011/07/25/ghp-fractals-class-summary/
+permalink: /2011/07/25/ghp-fractals-class-summary/
 slug: ghp-fractals-class-summary
 title: GHP Fractals Class Summary
 wordpress_id: 509

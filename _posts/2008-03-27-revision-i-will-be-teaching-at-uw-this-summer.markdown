@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-03-27 23:27:38+00:00
 layout: post
-link: http://hewner.com/2008/03/27/revision-i-will-be-teaching-at-uw-this-summer/
+permalink: /2008/03/27/revision-i-will-be-teaching-at-uw-this-summer/
 slug: revision-i-will-be-teaching-at-uw-this-summer
 title: 'Revision: I will be teaching at UW this summer'
 wordpress_id: 92

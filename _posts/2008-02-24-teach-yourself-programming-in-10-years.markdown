@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-02-24 21:42:39+00:00
 layout: post
-link: http://hewner.com/2008/02/24/teach-yourself-programming-in-10-years/
+permalink: /2008/02/24/teach-yourself-programming-in-10-years/
 slug: teach-yourself-programming-in-10-years
 title: Teach yourself programming in 10 years
 wordpress_id: 90

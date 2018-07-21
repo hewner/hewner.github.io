@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2009-12-14 22:22:45+00:00
 layout: post
-link: http://hewner.com/2009/12/14/my-paper-on-game-developer-qualifications/
+permalink: /2009/12/14/my-paper-on-game-developer-qualifications/
 slug: my-paper-on-game-developer-qualifications
 title: My Paper on Game Developer Qualifications
 wordpress_id: 107

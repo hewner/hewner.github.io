@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2012-11-19 22:55:27+00:00
 layout: post
-link: http://hewner.com/2012/11/19/changing-the-emacs-modeline-color-in-a-buffer/
+permalink: /2012/11/19/changing-the-emacs-modeline-color-in-a-buffer/
 slug: changing-the-emacs-modeline-color-in-a-buffer
 title: Changing the Emacs Modeline Color in a Buffer
 wordpress_id: 689

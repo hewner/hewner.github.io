@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2014-06-12 07:22:08+00:00
 layout: post
-link: http://hewner.com/2014/06/11/icer-2014-how-cs-undergraduates-make-course-choices/
+permalink: /2014/06/11/icer-2014-how-cs-undergraduates-make-course-choices/
 slug: icer-2014-how-cs-undergraduates-make-course-choices
 title: 'ICER 2014: How CS Undergraduates Make Course Choices'
 wordpress_id: 737

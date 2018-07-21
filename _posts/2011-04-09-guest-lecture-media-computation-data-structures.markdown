@@ -8,7 +8,7 @@ excerpt: Mark recently asked me to teach a guest lecture in his Media Computatio
   bits of terminology to prep students for later classes, and get students playing
   with the Greenfoot engine.
 layout: post
-link: http://hewner.com/2011/04/09/guest-lecture-media-computation-data-structures/
+permalink: /2011/04/09/guest-lecture-media-computation-data-structures/
 slug: guest-lecture-media-computation-data-structures
 title: 'Guest Lecture: Media Computation Data Structures'
 wordpress_id: 465

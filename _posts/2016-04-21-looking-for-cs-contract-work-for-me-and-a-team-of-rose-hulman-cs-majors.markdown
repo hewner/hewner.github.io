@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2016-04-21 16:22:37+00:00
 layout: post
-link: http://hewner.com/2016/04/21/looking-for-cs-contract-work-for-me-and-a-team-of-rose-hulman-cs-majors/
+permalink: /2016/04/21/looking-for-cs-contract-work-for-me-and-a-team-of-rose-hulman-cs-majors/
 slug: looking-for-cs-contract-work-for-me-and-a-team-of-rose-hulman-cs-majors
 title: Looking for CS Contract Work (for me and a team of Rose-Hulman CS majors)
 wordpress_id: 776

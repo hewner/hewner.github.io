@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-03-30 17:52:59+00:00
 layout: post
-link: http://hewner.com/2008/03/30/whats-wrong-with-cs-research/
+permalink: /2008/03/30/whats-wrong-with-cs-research/
 slug: whats-wrong-with-cs-research
 title: What's wrong with CS research
 wordpress_id: 93

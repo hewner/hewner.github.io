@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2012-05-11 16:00:17+00:00
 layout: post
-link: http://hewner.com/2012/05/11/feedback-from-my-first-semester-teaching/
+permalink: /2012/05/11/feedback-from-my-first-semester-teaching/
 slug: feedback-from-my-first-semester-teaching
 title: Feedback from my First Semester Teaching
 wordpress_id: 622

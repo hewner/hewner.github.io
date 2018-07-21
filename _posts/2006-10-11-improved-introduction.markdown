@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-10-11 22:25:21+00:00
 layout: post
-link: http://hewner.com/2006/10/11/improved-introduction/
+permalink: /2006/10/11/improved-introduction/
 slug: improved-introduction
 title: Improved introduction!
 wordpress_id: 54

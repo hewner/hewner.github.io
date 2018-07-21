@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2014-07-06 08:12:27+00:00
 layout: post
-link: http://hewner.com/2014/07/06/catan-gui-in-elm/
+permalink: /2014/07/06/catan-gui-in-elm/
 slug: catan-gui-in-elm
 title: Catan GUI in Elm
 wordpress_id: 746

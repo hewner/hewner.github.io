@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2011-12-20 21:19:29+00:00
 layout: post
-link: http://hewner.com/2011/12/20/my-students-are-awesome-part-2-cs100/
+permalink: /2011/12/20/my-students-are-awesome-part-2-cs100/
 slug: my-students-are-awesome-part-2-cs100
 title: 'My students are awesome (part 2): cs100'
 wordpress_id: 594

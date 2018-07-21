@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2012-10-09 19:53:46+00:00
 layout: post
-link: http://hewner.com/2012/10/09/making-simple-fractals-in-r/
+permalink: /2012/10/09/making-simple-fractals-in-r/
 slug: making-simple-fractals-in-r
 title: Making Simple Fractals in R
 wordpress_id: 636

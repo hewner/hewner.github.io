@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-03-20 23:46:54+00:00
 layout: post
-link: http://hewner.com/2008/03/20/looks-like-ill-be-in-seattle-for-the-summer/
+permalink: /2008/03/20/looks-like-ill-be-in-seattle-for-the-summer/
 slug: looks-like-ill-be-in-seattle-for-the-summer
 title: Looks like I'll be in Seattle for the summer
 wordpress_id: 91

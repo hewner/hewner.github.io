@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-08-22 01:12:20+00:00
 layout: post
-link: http://hewner.com/2006/08/21/darcs-on-notice/
+permalink: /2006/08/21/darcs-on-notice/
 slug: darcs-on-notice
 title: 'DARCS: on notice'
 wordpress_id: 39

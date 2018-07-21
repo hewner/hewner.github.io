@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2011-03-10 00:13:29+00:00
 layout: post
-link: http://hewner.com/2011/03/09/reforcement-learning-mario-ai/
+permalink: /2011/03/09/reforcement-learning-mario-ai/
 slug: reforcement-learning-mario-ai
 title: Reforcement Learning Mario AI
 wordpress_id: 456

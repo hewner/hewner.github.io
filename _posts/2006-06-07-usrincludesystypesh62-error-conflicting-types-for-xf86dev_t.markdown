@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-06-07 03:33:27+00:00
 layout: post
-link: http://hewner.com/2006/06/06/usrincludesystypesh62-error-conflicting-types-for-xf86dev_t/
+permalink: /2006/06/06/usrincludesystypesh62-error-conflicting-types-for-xf86dev_t/
 slug: usrincludesystypesh62-error-conflicting-types-for-xf86dev_t
 title: '/usr/include/sys/types.h:62: error: conflicting types for ''xf86dev_t'''
 wordpress_id: 29

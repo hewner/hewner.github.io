@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-10-05 06:31:00+00:00
 layout: post
-link: http://hewner.com/2006/10/04/working-ruby-hid-listener-example/
+permalink: /2006/10/04/working-ruby-hid-listener-example/
 slug: working-ruby-hid-listener-example
 title: Working ruby HID listener example
 wordpress_id: 50

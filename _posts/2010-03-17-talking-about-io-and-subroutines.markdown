@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-03-17 04:12:31+00:00
 layout: post
-link: http://hewner.com/2010/03/16/talking-about-io-and-subroutines/
+permalink: /2010/03/16/talking-about-io-and-subroutines/
 slug: talking-about-io-and-subroutines
 title: Talking about IO and Subroutines
 wordpress_id: 189

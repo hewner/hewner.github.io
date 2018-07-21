@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-02-19 23:00:55+00:00
 layout: post
-link: http://hewner.com/2010/02/19/tacrypt-a-javascript-hack-for-webpages-with-multiple-reveals/
+permalink: /2010/02/19/tacrypt-a-javascript-hack-for-webpages-with-multiple-reveals/
 slug: tacrypt-a-javascript-hack-for-webpages-with-multiple-reveals
 title: TACrypt - A JavaScript Hack for Webpages With Multiple Reveals
 wordpress_id: 153

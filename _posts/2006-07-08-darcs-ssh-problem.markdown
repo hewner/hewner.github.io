@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-07-08 05:31:18+00:00
 layout: post
-link: http://hewner.com/2006/07/07/darcs-ssh-problem/
+permalink: /2006/07/07/darcs-ssh-problem/
 slug: darcs-ssh-problem
 title: darcs ssh problem
 wordpress_id: 31

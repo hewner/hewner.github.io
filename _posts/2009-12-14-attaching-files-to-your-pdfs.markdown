@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2009-12-14 22:48:04+00:00
 layout: post
-link: http://hewner.com/2009/12/14/attaching-files-to-your-pdfs/
+permalink: /2009/12/14/attaching-files-to-your-pdfs/
 slug: attaching-files-to-your-pdfs
 title: Attaching files to your PDFs
 wordpress_id: 108

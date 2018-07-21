@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-11-29 18:59:30+00:00
 layout: post
-link: http://hewner.com/2010/11/29/ta-hint-documents/
+permalink: /2010/11/29/ta-hint-documents/
 slug: ta-hint-documents
 title: TA Hint Documents
 wordpress_id: 279

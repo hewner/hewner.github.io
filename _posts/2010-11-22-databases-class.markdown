@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-11-22 21:51:41+00:00
 layout: post
-link: http://hewner.com/2010/11/22/databases-class/
+permalink: /2010/11/22/databases-class/
 slug: databases-class
 title: Databases Class
 wordpress_id: 274

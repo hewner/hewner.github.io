@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-07-03 01:56:27+00:00
 layout: post
-link: http://hewner.com/2010/07/02/mikes-ultimate-unix-scavenger-hunt/
+permalink: /2010/07/02/mikes-ultimate-unix-scavenger-hunt/
 slug: mikes-ultimate-unix-scavenger-hunt
 title: Mike's Ultimate Unix Scavenger Hunt
 wordpress_id: 220

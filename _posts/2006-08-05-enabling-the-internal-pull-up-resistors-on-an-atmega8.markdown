@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-08-05 04:58:44+00:00
 layout: post
-link: http://hewner.com/2006/08/04/enabling-the-internal-pull-up-resistors-on-an-atmega8/
+permalink: /2006/08/04/enabling-the-internal-pull-up-resistors-on-an-atmega8/
 slug: enabling-the-internal-pull-up-resistors-on-an-atmega8
 title: Enabling the internal pull-up resistors on an ATmega8
 wordpress_id: 36

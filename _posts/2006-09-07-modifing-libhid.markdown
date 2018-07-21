@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-09-07 18:39:54+00:00
 layout: post
-link: http://hewner.com/2006/09/07/modifing-libhid/
+permalink: /2006/09/07/modifing-libhid/
 slug: modifing-libhid
 title: Modifing libhid?
 wordpress_id: 45

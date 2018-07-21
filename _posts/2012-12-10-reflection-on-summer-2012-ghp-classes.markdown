@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2012-12-10 20:34:18+00:00
 layout: post
-link: http://hewner.com/2012/12/10/reflection-on-summer-2012-ghp-classes/
+permalink: /2012/12/10/reflection-on-summer-2012-ghp-classes/
 slug: reflection-on-summer-2012-ghp-classes
 title: Reflection on Summer 2012 GHP Classes
 wordpress_id: 695

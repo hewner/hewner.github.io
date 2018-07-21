@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-02-01 20:04:56+00:00
 layout: post
-link: http://hewner.com/2008/02/01/the-evil-robotic-nun-post/
+permalink: /2008/02/01/the-evil-robotic-nun-post/
 slug: the-evil-robotic-nun-post
 title: The Evil Robotic Nun Post
 wordpress_id: 87

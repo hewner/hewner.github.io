@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-10-03 17:47:51+00:00
 layout: post
-link: http://hewner.com/2007/10/03/my-baby-continued-bluetooth-twiddler/
+permalink: /2007/10/03/my-baby-continued-bluetooth-twiddler/
 slug: my-baby-continued-bluetooth-twiddler
 title: My Baby (continued) - Bluetooth Twiddler
 wordpress_id: 71

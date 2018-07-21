@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-01-22 23:02:59+00:00
 layout: post
-link: http://hewner.com/2008/01/22/learning-text-editor-keybindings/
+permalink: /2008/01/22/learning-text-editor-keybindings/
 slug: learning-text-editor-keybindings
 title: Learning Text Editor Keybindings
 wordpress_id: 85

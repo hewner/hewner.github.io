@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-08-06 23:13:16+00:00
 layout: post
-link: http://hewner.com/2006/08/06/flash-error-at-address-0x2/
+permalink: /2006/08/06/flash-error-at-address-0x2/
 slug: flash-error-at-address-0x2
 title: flash error at address 0x2
 wordpress_id: 38

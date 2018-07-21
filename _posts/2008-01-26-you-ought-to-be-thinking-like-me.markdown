@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-01-26 21:02:28+00:00
 layout: post
-link: http://hewner.com/2008/01/26/you-ought-to-be-thinking-like-me/
+permalink: /2008/01/26/you-ought-to-be-thinking-like-me/
 slug: you-ought-to-be-thinking-like-me
 title: you ought to be thinking like me
 wordpress_id: 86

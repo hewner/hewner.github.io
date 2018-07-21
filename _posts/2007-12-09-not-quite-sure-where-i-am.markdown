@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-12-09 14:08:45+00:00
 layout: post
-link: http://hewner.com/2007/12/09/not-quite-sure-where-i-am/
+permalink: /2007/12/09/not-quite-sure-where-i-am/
 slug: not-quite-sure-where-i-am
 title: Not quite sure where I am
 wordpress_id: 76

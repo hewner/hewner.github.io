@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2011-02-18 21:59:23+00:00
 layout: post
-link: http://hewner.com/2011/02/18/what-game-programmers-look-for-atlanta-high-school-edition/
+permalink: /2011/02/18/what-game-programmers-look-for-atlanta-high-school-edition/
 slug: what-game-programmers-look-for-atlanta-high-school-edition
 title: 'What Game Programmers Look For: Atlanta High School Edition'
 wordpress_id: 286

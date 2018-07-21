@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-12-08 02:16:54+00:00
 layout: post
-link: http://hewner.com/2007/12/07/semester-done-brain-is-healing/
+permalink: /2007/12/07/semester-done-brain-is-healing/
 slug: semester-done-brain-is-healing
 title: Semester done.  Brain is healing.
 wordpress_id: 74

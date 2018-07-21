@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2011-02-26 04:30:45+00:00
 layout: post
-link: http://hewner.com/2011/02/25/my-super-campy-bluetooth-keyboard-video/
+permalink: /2011/02/25/my-super-campy-bluetooth-keyboard-video/
 slug: my-super-campy-bluetooth-keyboard-video
 title: My Super Campy Bluetooth Keyboard Video
 wordpress_id: 438

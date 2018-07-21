@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-12-08 17:12:55+00:00
 layout: post
-link: http://hewner.com/2007/12/08/semester-in-brief/
+permalink: /2007/12/08/semester-in-brief/
 slug: semester-in-brief
 title: Semester in brief
 wordpress_id: 75

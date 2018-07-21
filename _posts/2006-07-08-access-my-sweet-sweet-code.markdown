@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-07-08 08:25:21+00:00
 layout: post
-link: http://hewner.com/2006/07/08/access-my-sweet-sweet-code/
+permalink: /2006/07/08/access-my-sweet-sweet-code/
 slug: access-my-sweet-sweet-code
 title: Access my sweet sweet code
 wordpress_id: 32

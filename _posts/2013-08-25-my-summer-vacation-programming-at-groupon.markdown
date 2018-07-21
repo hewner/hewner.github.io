@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2013-08-25 05:46:17+00:00
 layout: post
-link: http://hewner.com/2013/08/24/my-summer-vacation-programming-at-groupon/
+permalink: /2013/08/24/my-summer-vacation-programming-at-groupon/
 slug: my-summer-vacation-programming-at-groupon
 title: 'My Summer Vacation: Programming at Groupon'
 wordpress_id: 719

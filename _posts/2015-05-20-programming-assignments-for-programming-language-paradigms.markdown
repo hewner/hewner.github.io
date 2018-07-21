@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2015-05-20 16:35:06+00:00
 layout: post
-link: http://hewner.com/2015/05/20/programming-assignments-for-programming-language-paradigms/
+permalink: /2015/05/20/programming-assignments-for-programming-language-paradigms/
 slug: programming-assignments-for-programming-language-paradigms
 title: Programming Assignments for Programming Language Paradigms
 wordpress_id: 757

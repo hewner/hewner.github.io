@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-02-19 23:29:29+00:00
 layout: post
-link: http://hewner.com/2010/02/19/pnp-for-into-cs-a-work-in-progress/
+permalink: /2010/02/19/pnp-for-into-cs-a-work-in-progress/
 slug: pnp-for-into-cs-a-work-in-progress
 title: 'P/NP for Intro CS: A Work in Progress'
 wordpress_id: 151

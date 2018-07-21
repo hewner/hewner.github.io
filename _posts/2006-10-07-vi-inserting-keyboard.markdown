@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-10-07 08:07:05+00:00
 layout: post
-link: http://hewner.com/2006/10/07/vi-inserting-keyboard/
+permalink: /2006/10/07/vi-inserting-keyboard/
 slug: vi-inserting-keyboard
 title: VI inserting keyboard
 wordpress_id: 51

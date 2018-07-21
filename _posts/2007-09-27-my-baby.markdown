@@ -3,7 +3,7 @@ author: phewner
 comments: false
 date: 2007-09-27 23:40:27+00:00
 layout: post
-link: http://hewner.com/2007/09/27/my-baby/
+permalink: /2007/09/27/my-baby/
 slug: my-baby
 title: My Baby
 wordpress_id: 70

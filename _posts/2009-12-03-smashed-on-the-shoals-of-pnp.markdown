@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2009-12-03 22:40:36+00:00
 layout: post
-link: http://hewner.com/2009/12/03/smashed-on-the-shoals-of-pnp/
+permalink: /2009/12/03/smashed-on-the-shoals-of-pnp/
 slug: smashed-on-the-shoals-of-pnp
 title: Smashed on the Shoals of P/NP
 wordpress_id: 104

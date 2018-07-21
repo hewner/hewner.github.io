@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-04-12 20:36:24+00:00
 layout: post
-link: http://hewner.com/2010/04/12/the-stack-c-io-buffer-overflow-attacks-varargs-and-malloc-an-exploding-kitten-approach/
+permalink: /2010/04/12/the-stack-c-io-buffer-overflow-attacks-varargs-and-malloc-an-exploding-kitten-approach/
 slug: the-stack-c-io-buffer-overflow-attacks-varargs-and-malloc-an-exploding-kitten-approach
 title: 'The Stack, C I/O, Buffer Overflow attacks, Varargs, and Malloc: An Exploding
   Kitten Approach'

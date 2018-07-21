@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-08-30 22:35:58+00:00
 layout: post
-link: http://hewner.com/2010/08/30/intro-to-jython-lecture-reflections/
+permalink: /2010/08/30/intro-to-jython-lecture-reflections/
 slug: intro-to-jython-lecture-reflections
 title: 'Intro to Jython Lecture: Reflections'
 wordpress_id: 250

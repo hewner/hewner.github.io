@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-08-12 03:43:56+00:00
 layout: post
-link: http://hewner.com/2007/08/11/im-in-ur-hotel-stealn-ur-snoozes/
+permalink: /2007/08/11/im-in-ur-hotel-stealn-ur-snoozes/
 slug: im-in-ur-hotel-stealn-ur-snoozes
 title: IM IN UR HOTEL, STEALN UR SNOOZES
 wordpress_id: 66

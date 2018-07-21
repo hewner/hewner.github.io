@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-08-06 23:03:39+00:00
 layout: post
-link: http://hewner.com/2006/08/06/getting-clipboard-support-with-ubuntus-remote-desktop/
+permalink: /2006/08/06/getting-clipboard-support-with-ubuntus-remote-desktop/
 slug: getting-clipboard-support-with-ubuntus-remote-desktop
 title: Getting clipboard support with ubuntu's remote desktop
 wordpress_id: 37

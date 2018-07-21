@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-05-11 12:52:41+00:00
 layout: post
-link: http://hewner.com/2008/05/11/yasd/
+permalink: /2008/05/11/yasd/
 slug: yasd
 title: YASD
 wordpress_id: 95

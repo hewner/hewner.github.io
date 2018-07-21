@@ -7,7 +7,7 @@ excerpt: This paper explores the experience of CS students who -- due to India's
   reputation.  The study was a grounded--theory based interview study based on 20
   students at 2 tiers of schools in India.
 layout: post
-link: http://hewner.com/2016/09/11/when-everyone-knows-cs-is-the-best-major-decisions-about-cs-in-an-indian-context/
+permalink: /2016/09/11/when-everyone-knows-cs-is-the-best-major-decisions-about-cs-in-an-indian-context/
 slug: when-everyone-knows-cs-is-the-best-major-decisions-about-cs-in-an-indian-context
 title: 'When Everyone Knows CS is the Best Major: Decisions about CS in an Indian
   context'

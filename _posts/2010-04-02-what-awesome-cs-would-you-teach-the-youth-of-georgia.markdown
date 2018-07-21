@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-04-02 02:47:34+00:00
 layout: post
-link: http://hewner.com/2010/04/01/what-awesome-cs-would-you-teach-the-youth-of-georgia/
+permalink: /2010/04/01/what-awesome-cs-would-you-teach-the-youth-of-georgia/
 slug: what-awesome-cs-would-you-teach-the-youth-of-georgia
 title: What awesome CS would you teach the youth of Georgia in 1 class?
 wordpress_id: 208

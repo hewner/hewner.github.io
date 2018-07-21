@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-01-14 05:03:25+00:00
 layout: post
-link: http://hewner.com/2010/01/13/my-first-andriod-app-10k-hours/
+permalink: /2010/01/13/my-first-andriod-app-10k-hours/
 slug: my-first-andriod-app-10k-hours
 title: 'My First Android App: 10K Hours'
 wordpress_id: 110

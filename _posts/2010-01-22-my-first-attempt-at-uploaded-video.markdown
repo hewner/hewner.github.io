@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-01-22 11:48:18+00:00
 layout: post
-link: http://hewner.com/2010/01/22/my-first-attempt-at-uploaded-video/
+permalink: /2010/01/22/my-first-attempt-at-uploaded-video/
 slug: my-first-attempt-at-uploaded-video
 title: My first attempt at uploaded video
 wordpress_id: 127

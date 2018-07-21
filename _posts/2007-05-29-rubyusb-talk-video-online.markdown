@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-05-29 17:33:04+00:00
 layout: post
-link: http://hewner.com/2007/05/29/rubyusb-talk-video-online/
+permalink: /2007/05/29/rubyusb-talk-video-online/
 slug: rubyusb-talk-video-online
 title: RubyUSB talk video online!
 wordpress_id: 64

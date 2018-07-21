@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-07-17 07:09:08+00:00
 layout: post
-link: http://hewner.com/2006/07/16/xtestfakekeyevent-and-xsendevent-examples/
+permalink: /2006/07/16/xtestfakekeyevent-and-xsendevent-examples/
 slug: xtestfakekeyevent-and-xsendevent-examples
 title: XTestFakeKeyEvent and XSendEvent examples
 wordpress_id: 34

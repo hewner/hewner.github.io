@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-08-29 19:16:24+00:00
 layout: post
-link: http://hewner.com/2007/08/29/mikes-calendar/
+permalink: /2007/08/29/mikes-calendar/
 slug: mikes-calendar
 title: Mike's calendar
 wordpress_id: 69

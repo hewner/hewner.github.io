@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-08-22 19:20:46+00:00
 layout: post
-link: http://hewner.com/2007/08/22/life-slowly-approximating-normal-in-atlanta/
+permalink: /2007/08/22/life-slowly-approximating-normal-in-atlanta/
 slug: life-slowly-approximating-normal-in-atlanta
 title: Life Slowly Approximating Normal in Atlanta
 wordpress_id: 68

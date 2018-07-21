@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-08-03 10:59:26+00:00
 layout: post
-link: http://hewner.com/2007/08/03/automounting-ext3-usb-drives-fstab-and-ubuntu/
+permalink: /2007/08/03/automounting-ext3-usb-drives-fstab-and-ubuntu/
 slug: automounting-ext3-usb-drives-fstab-and-ubuntu
 title: 'Automounting ext3 usb drives: fstab and ubuntu'
 wordpress_id: 65

@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-06-16 06:11:05+00:00
 layout: post
-link: http://hewner.com/2006/06/15/some-random-environment-configuration/
+permalink: /2006/06/15/some-random-environment-configuration/
 slug: some-random-environment-configuration
 title: Some random environment configuration
 wordpress_id: 30

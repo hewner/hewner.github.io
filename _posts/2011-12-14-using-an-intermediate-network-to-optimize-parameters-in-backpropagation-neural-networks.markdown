@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2011-12-14 22:21:53+00:00
 layout: post
-link: http://hewner.com/2011/12/14/using-an-intermediate-network-to-optimize-parameters-in-backpropagation-neural-networks/
+permalink: /2011/12/14/using-an-intermediate-network-to-optimize-parameters-in-backpropagation-neural-networks/
 slug: using-an-intermediate-network-to-optimize-parameters-in-backpropagation-neural-networks
 title: Using an Intermediate Network to Optimize Parameters in Backpropagation Neural
   Networks

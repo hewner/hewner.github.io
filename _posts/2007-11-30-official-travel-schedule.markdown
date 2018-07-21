@@ -3,7 +3,7 @@ author: phewner
 comments: false
 date: 2007-11-30 21:20:27+00:00
 layout: post
-link: http://hewner.com/2007/11/30/official-travel-schedule/
+permalink: /2007/11/30/official-travel-schedule/
 slug: official-travel-schedule
 title: Official Travel Schedule
 wordpress_id: 73

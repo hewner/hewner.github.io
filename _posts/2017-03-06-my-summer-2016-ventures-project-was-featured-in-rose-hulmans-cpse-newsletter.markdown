@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2017-03-06 14:51:59+00:00
 layout: post
-link: http://hewner.com/2017/03/06/my-summer-2016-ventures-project-was-featured-in-rose-hulmans-cpse-newsletter/
+permalink: /2017/03/06/my-summer-2016-ventures-project-was-featured-in-rose-hulmans-cpse-newsletter/
 slug: my-summer-2016-ventures-project-was-featured-in-rose-hulmans-cpse-newsletter
 title: My Summer 2016 ventures project was featured in Rose-Hulman's CPSE newsletter
 wordpress_id: 823

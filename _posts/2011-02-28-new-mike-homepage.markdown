@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2011-02-28 20:06:58+00:00
 layout: post
-link: http://hewner.com/2011/02/28/new-mike-homepage/
+permalink: /2011/02/28/new-mike-homepage/
 slug: new-mike-homepage
 title: New Mike Homepage
 wordpress_id: 447

@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-09-22 20:22:27+00:00
 layout: post
-link: http://hewner.com/2006/09/22/json-usage-mappings/
+permalink: /2006/09/22/json-usage-mappings/
 slug: json-usage-mappings
 title: JSON usage mappings
 wordpress_id: 49

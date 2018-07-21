@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-08-24 22:51:30+00:00
 layout: post
-link: http://hewner.com/2006/08/24/minor-update-to-ruby_evdev/
+permalink: /2006/08/24/minor-update-to-ruby_evdev/
 slug: minor-update-to-ruby_evdev
 title: minor update to ruby_evdev
 wordpress_id: 41

@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2011-06-15 20:38:43+00:00
 layout: post
-link: http://hewner.com/2011/06/15/how-cs-majors-select-a-specialization/
+permalink: /2011/06/15/how-cs-majors-select-a-specialization/
 slug: how-cs-majors-select-a-specialization
 title: How CS Majors Select a Specialization
 wordpress_id: 495

@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-11-16 21:06:26+00:00
 layout: post
-link: http://hewner.com/2006/11/16/gre-finished/
+permalink: /2006/11/16/gre-finished/
 slug: gre-finished
 title: GRE finished!
 wordpress_id: 55

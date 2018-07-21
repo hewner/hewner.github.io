@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2011-05-11 23:33:59+00:00
 layout: post
-link: http://hewner.com/2011/05/11/search-based-ai-for-pandemic/
+permalink: /2011/05/11/search-based-ai-for-pandemic/
 slug: search-based-ai-for-pandemic
 title: Search-Based AI for Pandemic
 wordpress_id: 490

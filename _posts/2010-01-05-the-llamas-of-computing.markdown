@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-01-05 02:17:07+00:00
 layout: post
-link: http://hewner.com/2010/01/04/the-llamas-of-computing/
+permalink: /2010/01/04/the-llamas-of-computing/
 slug: the-llamas-of-computing
 title: 'The Llamas of Computing: A P/NP Fairytale'
 wordpress_id: 109

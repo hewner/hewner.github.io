@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-08-30 06:45:43+00:00
 layout: post
-link: http://hewner.com/2006/08/29/example-for-avr-libc-eepromh/
+permalink: /2006/08/29/example-for-avr-libc-eepromh/
 slug: example-for-avr-libc-eepromh
 title: Example for avr-libc eeprom.h
 wordpress_id: 42

@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2011-08-01 00:18:34+00:00
 layout: post
-link: http://hewner.com/2011/07/31/summary-of-my-ghp-theory-of-computation-class/
+permalink: /2011/07/31/summary-of-my-ghp-theory-of-computation-class/
 slug: summary-of-my-ghp-theory-of-computation-class
 title: GHP Theory of Computation Class Summary
 wordpress_id: 524

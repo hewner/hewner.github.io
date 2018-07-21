@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-12-09 19:53:01+00:00
 layout: post
-link: http://hewner.com/2007/12/09/made-it-to-my-hotel-room-safe-and-sound/
+permalink: /2007/12/09/made-it-to-my-hotel-room-safe-and-sound/
 slug: made-it-to-my-hotel-room-safe-and-sound
 title: Made it to my hotel room safe and sound
 wordpress_id: 77

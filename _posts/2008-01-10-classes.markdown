@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-01-10 22:46:44+00:00
 layout: post
-link: http://hewner.com/2008/01/10/classes/
+permalink: /2008/01/10/classes/
 slug: classes
 title: Classes
 wordpress_id: 81

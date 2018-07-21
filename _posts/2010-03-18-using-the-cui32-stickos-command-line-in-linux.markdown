@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-03-18 01:42:13+00:00
 layout: post
-link: http://hewner.com/2010/03/17/using-the-cui32-stickos-command-line-in-linux/
+permalink: /2010/03/17/using-the-cui32-stickos-command-line-in-linux/
 slug: using-the-cui32-stickos-command-line-in-linux
 title: Using the CUI32 StickOS command line in Linux
 wordpress_id: 204

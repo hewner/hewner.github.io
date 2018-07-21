@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2017-11-27 19:33:56+00:00
 layout: post
-link: http://hewner.com/2017/11/27/looking-for-a-professional-programming-job-this-summer/
+permalink: /2017/11/27/looking-for-a-professional-programming-job-this-summer/
 slug: looking-for-a-professional-programming-job-this-summer
 title: Looking for a professional programming job this summer
 wordpress_id: 816

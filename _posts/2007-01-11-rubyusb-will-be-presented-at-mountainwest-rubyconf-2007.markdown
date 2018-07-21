@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-01-11 23:24:26+00:00
 layout: post
-link: http://hewner.com/2007/01/11/rubyusb-will-be-presented-at-mountainwest-rubyconf-2007/
+permalink: /2007/01/11/rubyusb-will-be-presented-at-mountainwest-rubyconf-2007/
 slug: rubyusb-will-be-presented-at-mountainwest-rubyconf-2007
 title: RubyUSB will be presented at  MountainWest RubyConf 2007
 wordpress_id: 57

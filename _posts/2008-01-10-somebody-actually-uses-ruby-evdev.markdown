@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2008-01-10 21:22:17+00:00
 layout: post
-link: http://hewner.com/2008/01/10/somebody-actually-uses-ruby-evdev/
+permalink: /2008/01/10/somebody-actually-uses-ruby-evdev/
 slug: somebody-actually-uses-ruby-evdev
 title: Somebody actually uses ruby evdev!
 wordpress_id: 80

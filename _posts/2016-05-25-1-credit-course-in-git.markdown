@@ -7,7 +7,7 @@ excerpt: What I decided on was lectures, supplemented by a textbook, followed by
   (and parsed the output).  This was a course for moderately senior students who had
   used the basics of git and could pick up a new scripting language easily.
 layout: post
-link: http://hewner.com/2016/05/25/1-credit-course-in-git/
+permalink: /2016/05/25/1-credit-course-in-git/
 slug: 1-credit-course-in-git
 title: 1-credit course in GIT
 wordpress_id: 782

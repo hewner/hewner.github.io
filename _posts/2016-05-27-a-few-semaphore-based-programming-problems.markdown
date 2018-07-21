@@ -4,7 +4,7 @@ comments: true
 date: 2016-05-27 15:24:31+00:00
 excerpt: So here's a bunch of small problems that use semaphores
 layout: post
-link: http://hewner.com/2016/05/27/a-few-semaphore-based-programming-problems/
+permalink: /2016/05/27/a-few-semaphore-based-programming-problems/
 slug: a-few-semaphore-based-programming-problems
 title: A Few Semaphore Based Programming Problems
 wordpress_id: 787

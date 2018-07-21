@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-04-13 18:33:05+00:00
 layout: post
-link: http://hewner.com/2007/04/13/georgia-tech-my-new-school/
+permalink: /2007/04/13/georgia-tech-my-new-school/
 slug: georgia-tech-my-new-school
 title: 'Georgia Tech: My New School'
 wordpress_id: 63

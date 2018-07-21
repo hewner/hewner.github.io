@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2011-11-29 16:40:10+00:00
 layout: post
-link: http://hewner.com/2011/11/29/cs100-class-design/
+permalink: /2011/11/29/cs100-class-design/
 slug: cs100-class-design
 title: CS100 Class Design
 wordpress_id: 553

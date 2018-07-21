@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2009-08-28 13:51:55+00:00
 layout: post
-link: http://hewner.com/2009/08/28/a-pretty-good-explaination-of-p-np/
+permalink: /2009/08/28/a-pretty-good-explaination-of-p-np/
 slug: a-pretty-good-explaination-of-p-np
 title: A pretty good explaination of P / NP
 wordpress_id: 102

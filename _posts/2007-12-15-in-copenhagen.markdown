@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2007-12-15 12:42:29+00:00
 layout: post
-link: http://hewner.com/2007/12/15/in-copenhagen/
+permalink: /2007/12/15/in-copenhagen/
 slug: in-copenhagen
 title: In Copenhagen
 wordpress_id: 78

@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2015-05-21 19:24:14+00:00
 layout: post
-link: http://hewner.com/2015/05/21/good-open-source-projects-for-programmingrefactoring-assignments/
+permalink: /2015/05/21/good-open-source-projects-for-programmingrefactoring-assignments/
 slug: good-open-source-projects-for-programmingrefactoring-assignments
 title: Good Open Source Projects for Programming/Refactoring Assignments
 wordpress_id: 764

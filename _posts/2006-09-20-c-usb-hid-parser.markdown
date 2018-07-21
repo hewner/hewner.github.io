@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2006-09-20 20:25:38+00:00
 layout: post
-link: http://hewner.com/2006/09/20/c-usb-hid-parser/
+permalink: /2006/09/20/c-usb-hid-parser/
 slug: c-usb-hid-parser
 title: C++ USB HID parser
 wordpress_id: 47

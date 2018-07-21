@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-07-11 16:47:50+00:00
 layout: post
-link: http://hewner.com/2010/07/11/my-ol-fractal-generator/
+permalink: /2010/07/11/my-ol-fractal-generator/
 slug: my-ol-fractal-generator
 title: My Ol' Fractal Generator
 wordpress_id: 225

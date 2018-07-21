@@ -3,7 +3,7 @@ author: phewner
 comments: true
 date: 2010-02-10 03:17:08+00:00
 layout: post
-link: http://hewner.com/2010/02/09/a-real-example-of-exponential-runtime/
+permalink: /2010/02/09/a-real-example-of-exponential-runtime/
 slug: a-real-example-of-exponential-runtime
 title: A Real Example Of Exponential Runtime
 wordpress_id: 142
