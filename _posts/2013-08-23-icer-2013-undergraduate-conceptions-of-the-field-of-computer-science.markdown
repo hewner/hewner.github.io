@@ -21,7 +21,7 @@ Students come to CS from a variety of backgrounds and with a variety of preconce
 
 
 
-You can [download a copy](http://hewner.com/files/icer13-preprint.pdf) if you're curious, or see all the good stuff from ICER 2013 from the [complete proceedings](http://dl.acm.org/citation.cfm?id=2493394&picked=prox&cfid=355463852&cftoken=80107728).
+You can [download a copy](/files/icer13-preprint.pdf) if you're curious, or see all the good stuff from ICER 2013 from the [complete proceedings](http://dl.acm.org/citation.cfm?id=2493394&picked=prox&cfid=355463852&cftoken=80107728).
 
 
 

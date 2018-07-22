@@ -11,7 +11,7 @@ categories:
 - Research
 ---
 
-So the second main part of my dissertation research was accepted into ICER 2014!  Here's [a pre-publication version if you're interested](http://hewner.com/wp-content/uploads/2014/06/how_students_choose_courses.pdf).
+So the second main part of my dissertation research was accepted into ICER 2014!  Here's [a pre-publication version if you're interested](/files/how_students_choose_courses.pdf).
 
 
 

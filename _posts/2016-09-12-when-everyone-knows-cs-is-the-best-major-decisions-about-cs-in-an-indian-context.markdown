@@ -26,6 +26,6 @@ Much of the existing work on student experiences in the CS major focuses on CS i
 
 
 
-You can [get the full PDF here](http://hewner.com/wp-content/uploads/2016/06/icer2016.pdf).
+You can [get the full PDF here](/files/icer2016.pdf).
 
 Special thanks to my co-author [Shitanshu Mishra](http://www.et.iitb.ac.in/~shitanshu) who is presenting this paper at ICER.

@@ -21,4 +21,4 @@ Thanks to Ian Ludden who write littleRedHen and balloon for me.  Also, a shout o
 
 If you have any problems of your own, please send them my way!  My students could use the practice!
 
-[Go here for the files.]({{site.repository_url}}/tree/master/files/semaphore_probs)
+[Go here for the files.](https://github.com/hewner/hewner.github.io/tree/master/files/semaphore_probs)

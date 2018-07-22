@@ -28,4 +28,4 @@ This work makes three main contributions: the theory of student conceptions, the
 
 
 
-EDIT: The defense went well and I passed.  You can see [the final version of my dissertation here](http://hewner.com/files/hewner_dissert_FINAL.pdf).
+EDIT: The defense went well and I passed.  You can see [the final version of my dissertation here](/files/hewner_dissert_FINAL.pdf).
