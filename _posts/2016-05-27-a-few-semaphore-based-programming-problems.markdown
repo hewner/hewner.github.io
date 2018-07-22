@@ -20,3 +20,5 @@ So here's a bunch of small problems that use semaphores.  Some of these I used a
 Thanks to Ian Ludden who write littleRedHen and balloon for me.  Also, a shout out to Allen B. Downey who's awesome free book [The Little Book of Semaphores](http://www.greenteapress.com/semaphores/) is maybe the best treatment of the topic I've seen.  I would love to go through that entire book in my class, but there's not enough time in the current incarnation.
 
 If you have any problems of your own, please send them my way!  My students could use the practice!
+
+[Go here for the files.]({{site.repository_url}}/tree/master/files/semaphore_probs)
