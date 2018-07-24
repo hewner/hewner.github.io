@@ -25,8 +25,7 @@ But was it really exponential?  This is where I'm stuck.  I don't really underst
 
 
 
-<blockquote>
-
+{% raw %}
 >     
 >     HamiltonianCycle[g_Graph,flag_:One] :=
 >     	Module[{s={1},all={},done,adj=Edges[g],
@@ -57,10 +56,7 @@ But was it really exponential?  This is where I'm stuck.  I don't really underst
 >     	]
 > 
 > 
-
-> 
-> </blockquote>
-
+{% endraw %}
 
 
 Does that look familiar to anyone?  Any guesses to Big-O for this kind of input?
