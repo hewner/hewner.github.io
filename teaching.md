@@ -11,5 +11,6 @@ whatever.  You can [see my teaching statement here](cv/teaching_statement).
 
 # Course Materials
 
-* [CSSE220: Object Oriented Development](https://www.rose-hulman.edu/class/csse/csse220/201830/)
+* [CSSE220: Object Oriented Development](https://github.com/hewner/csse220)
 * [CSSE403: Programming Language Paradigms](https://github.com/hewner/csse403/)
+* [CSSE332: Operating Systems](https://github.com/RHIT-CSSE/csse332)
