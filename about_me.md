@@ -6,10 +6,10 @@ permalink: /
 
 <img align="right" src="files/Me-Purple.png"/>
 
-Hey, I'm Mike Hewner. I am a assistant professor at
+Hey, I'm Mike Hewner. I am a associate professor at
 [Rose-Hulman](http://www.rose-hulman.edu/).
 
-[My CV (updated December 2017) is available here](cv/cv2.pdf).  I also maintain a [non-academic resume](cv/cv2-nonacademic.pdf). 
+[My CV (updated October 2019) is available here](cv/cv2.pdf).  I also maintain a [non-academic resume](cv/cv2-nonacademic.pdf). 
 
 # Research
 
