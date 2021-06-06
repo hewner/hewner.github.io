@@ -29,8 +29,6 @@ I used to be a professional programmer and I do enjoy working on coding projects
 
 Email: hewner 'at' rose-hulman 'dot' edu
 
-Gtalk chat: hewner (a great way to reach me if you need some quick assignment help)
-
 Office Phone: 812 877 8517
 
 My office is F 204 (near Darryl Mouck's office if that helps).  Come by any time the door is open. 
