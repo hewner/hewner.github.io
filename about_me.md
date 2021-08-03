@@ -31,7 +31,10 @@ Email: hewner 'at' rose-hulman 'dot' edu
 
 Office Phone: 812 877 8517
 
-My office is F 204 (near Darryl Mouck's office if that helps).  Come by any time the door is open. 
+My office is E 206 (head down the little hallway marked E205A just on
+your right as you head down the little flight of stairs out of the CS
+dept/lab area).  Feel free to knock anytime you see me in there -
+usually I have time to chat/help folks.
 
 I'm always happy to hear from current/former students on
 [Facebook](https://www.facebook.com/mikehewner) or [Linked
