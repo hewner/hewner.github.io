@@ -1,12 +1,12 @@
 ---
-title: Sabbatical Talk - Challenges of a Unified OS Curriculum
+title: Sabbatical Talk
 categories:
 - Programming
 - Teaching
 - Operating Systems
 ---
 
-
+# Sabbatical Talk - Challenges of a Unified OS Curriculum
 
 The notes for this talk are here: https://bit.ly/3Lolxgn
 
