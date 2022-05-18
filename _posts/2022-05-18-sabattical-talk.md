@@ -1,5 +1,5 @@
 ---
-title: Sabbatical Talk:  Challenges of a Unified OS Curriculum
+title: Sabbatical Talk - Challenges of a Unified OS Curriculum
 categories:
 - Programming
 - Teaching
