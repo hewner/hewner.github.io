@@ -1,10 +1,14 @@
 ---
-title: Sabbatical Talk
+title: Sabbatical Talk:  Challenges of a Unified OS Curriculum
 categories:
 - Programming
 - Teaching
 - Operating Systems
 ---
+
+
+
+The notes for this talk are here: https://bit.ly/3Lolxgn
 
 
 # The Problem
@@ -32,11 +36,12 @@ How valuable is this topic?
 
 
 
+
 # The Dream
 
-## OS tends to involve these very intricate assignments, very costly to build
-## So I'll build some, working with the experts & understand what's important
-## The universe: nope nope nope nope nope
++ OS tends to involve these very intricate assignments, very costly to build
++ So I'll build some, working with the experts & understand what's important
++ The universe: nope nope nope nope nope
 
 
 
@@ -44,7 +49,8 @@ How valuable is this topic?
 # The World is on Fire
 
 ## My Duke OS class is moving fully on line
-## It is clearly not setup for online
+It is clearly not setup for online
+
 + All lectures
 + No in-class activities or assessments
 + A few major projects
@@ -52,19 +58,27 @@ How valuable is this topic?
   do due to significant cheating issues
 
 ## My main co-professor is the director of graduate studies for Duke CS
-## Ahhhhhhhh
+
+Ahhhhhhhh
 
 # Building so many assignments
 
 ## Switched it out for a project course with much smaller assignment structure
+
+Still less frequent assignments than the Rose-equivalent course.  We work our students hard!
+
 ## Reused the assignments they had, plus tons of Rose's plus developed some new ones
 ## Particularly fun: lock free data structures
 
-Hint: do not build lock free data structures
+Hint: do not build lock free data structures, you will not do it right
+
+https://rosehulman-my.sharepoint.com/:f:/g/personal/hewner_rose-hulman_edu/Eokpes7zNfFDpF6dHScxgFMBxH6h7zIetw6QDTnq8K1Zkw?e=FU2Vpr
 
 ## Weekly "live" lecture - with living coding
 
 Everybody loves active learning!
+
+https://replit.com/@hewner/
 
 ## Relied on sketchy internet startup for our test infrastructure
 
@@ -76,7 +90,7 @@ Such an obviously bad idea
 
 + No idea how it compares to the traditional course
 + I think a lot of my suggested changes worked out very well
-+ But we did have engagement down the very end
++ We had engagement down the very end
 + Even though courses with a *lot* of assignments is not the Duke norm
 + Graduate students were not nearly so happy
 
@@ -118,7 +132,7 @@ he wanted these topics in was because this was the students only
 system class.
 
 He also knew a *ton* about every imaginable OS area and naturally saw
-it as intracately interconnected
+it as intricately interconnected
 
 ### Skill
 
@@ -152,6 +166,9 @@ everything were were already teaching?
 + memory
 + concurrency
 
+You wouldn't have to pick these in particular, though I think that
+they are good ones.  I've also seriously considered "debugging".
+
 ## "Traditional" OS topics deployed in service of developing these skills
 
 e.g. we might cover filesystems because they allow us to build
@@ -170,9 +187,26 @@ Hard Concurrency Assignment -> Lock Free Data Structures
 You can see the order of the topics don't make sense, except as a
 vechicle for the skills.
 
+## "Reify" the implicit ideas that we take for granted
+
++ Pointer operations, pointer math and motion 
++ Memory structures, traversal and casting 
++ Alignment 
++ Stack and its structure, heap and its structure <= this one is traditional
++ Correctly freeing memory 
++ Design of memory structures for efficiency <= this one kinda traditional
++ Representation of programs <= this one is not traditional, but I'm not sure why
++ Virtual Memory and how processes can exist 
+
 ## Finally a unifying model that makes sense with learning goals!
 
+But very *my* style, not a compromise
+
 # Pitching that idea to Duke
+
+My pitch
+
+https://rosehulman-my.sharepoint.com/:w:/g/personal/hewner_rose-hulman_edu/EetY1A3_aCRFlUCYNc5BgC4BfNhpzRqEqtQssg_twFlqZg?e=vUcMQg
 
 Jeff was not super interested - but did suggest that maybe I'd be
 interested in working on a new more basic level system course that was
@@ -180,10 +214,16 @@ being developed.
 
 ## Worked with an ECE prof and he did seem interested
 
+Dr. Alvin "Avly" Lebeck
+
+https://ece.duke.edu/faculty/alvin-lebeck
+
 We speced out some assignment and what they could look like.  I even
 built an explemlar one to give him a feel.
 
-## ...but the primary purpose of this course was kinda strange
+Alvy has a very hard job here, trying to please many stakeholders.
+And a major innovative redesign interferes with a key goal of the
+course.
 
 # My takeaways (is nothing clear?)
 
@@ -198,8 +238,6 @@ My personal pet peeve
     ...stuff...
 
 My whole life is that #17.
-
-
 
 I think you've got to really understand where you are in these
 continua, and where you're going to be in terms of learning goals for
@@ -240,3 +278,7 @@ but not the same.
 ## There were several key specific gains not so interesting
 
 Biggest one - switch from Semaphores to Condition Variables
+
+...but as you can see I am still up to my old tricks
+
+https://rosehulman-my.sharepoint.com/:w:/g/personal/hewner_rose-hulman_edu/EVgWFv9_zhhEucugYOzHQL4BQHb7j70gMyQJuT1K0BOiGw?e=SKxPcR
